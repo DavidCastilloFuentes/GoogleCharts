@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blast Motion</string>
+    <string name="action_exit">Exit</string>
+    <string name="app_title">My Charts</string>
+    <string name="line_chart">Line Chart</string>
+    <string name="pie_chart">Pie Chart</string>
+    <string name="bar_chart">Bar Chart</string>
+</resources>
